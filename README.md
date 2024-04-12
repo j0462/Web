@@ -88,5 +88,4 @@ FireBase : FireStore을 사용하여 로그인 정보 및 유저별 데이터 �
 
 - 3. 이미지주소, 제목, 평점, 코멘트 입력후 기록하기 상호작용
 
-- 4. 로그인 된 유저를 키로 FireStore의 movies DB에 저장한다
-4. 로그인 된 유저의 FireStore에 저장 및 새로고침
+- 4. 로그인 된 유저를 키로 FireStore의 movies DB에 저장 및 새로고침
