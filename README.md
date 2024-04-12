@@ -1,6 +1,6 @@
 # 프로젝트: spartaflix에 로그인 기능 추가
 
-#### [html파일](https://github.com/j0462/Web/blob/main/index.html)
+#### [html파일](https://github.com/j0462/Web/blob/main/script/index.html)
 #### [웹체험](https://j0462.github.io/Web-html)
 ##### (기존에 생성되어 있는 ID:user PW:0000)
 
