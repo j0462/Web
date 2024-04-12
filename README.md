@@ -1,6 +1,6 @@
 # 프로젝트: spartaflix에 로그인 기능 추가
 
-#### [html파일](https://drive.google.com/file/d/1p0QNMx1AYgdJdxcTFNAPmUuWjvDCMLL8/view?usp=sharing)
+#### [html파일](https://github.com/j0462/Web/blob/main/index.html)
 
 ## 팀장, 조원 : 이상헌
 
